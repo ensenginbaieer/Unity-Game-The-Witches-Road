@@ -7,6 +7,7 @@
 [Bb]uild_*/
 [Ll]ogs/
 MemoryCaptures/
+.vs/Final Project/FileContentIndex/
 
 # User-specific files
 *.csproj
@@ -19,9 +20,12 @@ MemoryCaptures/
 *.pidb
 *.booproj
 *.svd
+Portfolio_1.jpg
+Portfolio_2.jpg
 
 #Unnecessary files
 *.txt
+*.docx
 *.pdf
 
 # Unity3D generated meta files
