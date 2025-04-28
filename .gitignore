@@ -1,0 +1,64 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Bb]uild_*/
+[Ll]ogs/
+MemoryCaptures/
+
+# User-specific files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+#Unnecessary files
+*.txt
+*.pdf
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Exclude Auto-generated VS/VSCode files
+.vscode/
+.vscode/*
+*.code-workspace
+
+# Exclude Rider project files
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.apk
+*.aab
+*.unitypackage
+
+# TextMeshPro generated files
+[Tt]extMesh Pro/
+
+# Addressable assets
+Assets/AddressableAssetsData/*/*.bin
+Assets/AddressableAssetsData/*/*.link.xml
+
+# JetBrains Rider Editor Plugin
+Assets/Plugins/Editor/JetBrains*
+
+# Ignore Collaborate cache
+**/UnityCollaborateCache/
+
+# Ignore Plastic SCM files (if not using it)
+.plastic/
+.ignore

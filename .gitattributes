@@ -1,0 +1,36 @@
+# Unity YAML files (treat as text)
+*.unity text
+*.prefab text
+*.asset text
+*.mat text
+*.anim text
+*.controller text
+*.overrideController text
+
+# C# scripts
+*.cs text
+
+# Shader files
+*.shader text
+*.cginc text
+
+# Text files
+*.txt text
+*.md text
+
+# Enforce LF line endings
+* text=auto eol=lf
+
+# Binary files (don't try to merge)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ogg binary
+*.mp3 binary
+*.wav binary
+*.ttf binary
+*.otf binary
+*.fbx binary
+*.mp4 binary
+*.mov binary
+*.pdf binary
